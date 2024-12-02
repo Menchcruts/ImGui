@@ -27,7 +27,7 @@ ipch
 *.VC.VC.opendb
 *.vcxproj
 *.vcxproj.user
-*.vcxproj.filter
+*.vcxproj.filters
 
 ## Getting files created in JSON/Schemas/Catalog/ from a VS2022 update
 JSON/
